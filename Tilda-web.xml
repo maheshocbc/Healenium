@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Tilda-web" parallel="false" thread-count="1">
+
+
+	<test name="TildaScript">
+		<classes>		
+		 	<class name="testpkg.StartTest" /> 		 	
+		</classes>
+	</test>
+
+</suite>
+  
